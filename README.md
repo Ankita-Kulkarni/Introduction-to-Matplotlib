@@ -9,6 +9,7 @@ It is open-source and free to use. 
 To use the matplotlib library you need to " import matplotlib.pyplot as plt ".
 
 You can also refer my article regarding "Introduction to Matplotlib"  
+https://medium.com/@kulkarni2ankita/193c4e69623c
 
 
 ![image](https://user-images.githubusercontent.com/83875977/160756975-31ccba90-1ad8-41d5-afbb-4a6ae9ff0930.png)
